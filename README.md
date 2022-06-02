@@ -1,0 +1,1 @@
+This is the documentaion page one of the assignments for freeCodeCamp's front end course.
