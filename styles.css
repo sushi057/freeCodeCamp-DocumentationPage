@@ -16,6 +16,19 @@ body{
 
 header{
     font-size: 1.8em;
+    margin: 20px;
+}
+
+#navbar{
+    max-width: 30%;
+    
+}
+
+
+
+
+.main-section{
+
 }
 
 @media (max-width: 30em){
